@@ -1,0 +1,29 @@
+feat: complete sanctuary OS with realistic breathing and star resonance
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto 09646f6
+# Last command done (1 command done):
+#    pick c580e21 feat: complete sanctuary OS with realistic breathing and star resonance
+# No commands remaining.
+# You are currently rebasing branch 'main' on '09646f6'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	modified:   README.md
+#	new file:   eslint.config.js
+#	new file:   index.html
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   public/favicon.svg
+#	new file:   public/icons.svg
+#	new file:   src/App.jsx
+#	new file:   src/assets/hero.png
+#	new file:   src/assets/react.svg
+#	new file:   src/assets/vite.svg
+#	new file:   src/index.css
+#	new file:   src/main.jsx
+#	new file:   tailwind.config.js
+#	new file:   vite.config.js
+#
